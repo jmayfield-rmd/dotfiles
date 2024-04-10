@@ -1,0 +1,6 @@
+[user]
+	email = jmayfield@rubiconmd.com
+	name = Jimmy Mayfield
+	signingkey = EF5F300932253486
+[commit]
+	gpgsign = true
