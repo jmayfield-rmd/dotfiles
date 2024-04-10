@@ -4,3 +4,5 @@
 	signingkey = EF5F300932253486
 [commit]
 	gpgsign = true
+[core]
+	excludesfile = /Users/jmayfield/.gitignore_global
